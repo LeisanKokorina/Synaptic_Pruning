@@ -1,3 +1,3 @@
 # Synaptic_Pruning
-
-(a university group project) 
+Optimization for Computer Science course
+Group Project: Leisan Kokorina, Dhiraj Pandey, Aswathy Sudevan Kokkottil
